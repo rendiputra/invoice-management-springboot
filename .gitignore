@@ -1,5 +1,4 @@
 HELP.md
-invoicedb-data/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -32,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Database ###
+invoicedb-data/
+
+### mac ###
+.DS_Store
